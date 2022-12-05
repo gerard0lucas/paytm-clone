@@ -6,8 +6,7 @@
 #### By Gerard Lucas
 ![line](./assets/rainbow.png)
 
-### Preview of paytm clone 👇
-
+### Preview of paytm clone👇
 ![screen shot](./assets/starlit-centaur-cc01a3.netlify.app_.png)
 ## **Things I learned from this Project ..**
 - I Learned about How to work with **Tailwind css**.
